@@ -1,0 +1,48 @@
+{
+  "entityId": "A2baFCBBCed3a0aA67CBA9B3",
+  "entityType": "collections",
+  "buildId": 22087,
+  "createdAt": "2026-09-29T14:52:38.963Z",
+  "downloads": [
+    {
+      "language": "python",
+      "status": "success",
+      "createdAt": "2026-09-29T14:52:38.972Z",
+      "link": "https://us-prod-sdk-gen-api-code-gen-uploads.s3.us-east-1.amazonaws.com/1b96b8a3-5b1f-491f-8b63-9c7244654471/vehicle-service-collection-sdk-python-1.0.0.zip?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZI2LJBU7HEKL35MU%2F20260929%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260929T145249Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQCt8k7GxUaQUpKjR62Ro%2BsNhFHyK8XN5KKtT%2BTGKSqVawIgcJ3BglICaYXBzganxAQjeOLxByVz%2BH6Z%2FefzB%2FytH38qkwUITxAAGgw2Mzc0MjM2NTIxNTgiDF9XGtbczR6Qy2Ve0SrwBNWqAYjgukXa%2B850N3%2B2Z%2Bg5%2BWkiVRE6cb%2FDs1iKAfDezTxzxwYFad1bf1JI%2BYjj7h13p0yrhJUuSRhOcRAe1eyfjKm2WdfsuUfLXYVpWSOIFyopDGN8J%2FLWQhCYntZBAkg1IYHMndIcFGHAd8FkSj3cFspzPGoZCdWYtOlziVviZ59ab5vS0xblgbo%2FGADSd8nuMOWsRASdrA6GYJ27GylJV30HvlrwIH1GcjdrGF2QEJo%2FBClPX%2F26NVGkOiobQq2HHp5kzS3whRn%2BJcOKB1hs%2B8j3QdoRNnKXgDJ9F1%2FVs1M%2BakaGXUpzUKvxyQ9m0PkkAzIXuOW5akZK6i8COax88fAetepAG1xXLHE9vVFN%2FIE1arTxrWtP938EdVSpjaAA0kLDedEhP5pW21CFHWUImf1Bw58t97Zah%2FuQF0cB9Zfqczx0eBgIdIZf2Jka0BsYDyjJZ8q0CdKea66UHxvSKyfDdIeUDrlpT%2B%2FPNixtJpURKQtw7DIhjNOEA2WEXZjR6IYMkpi1eIAB4FUSoy3pCKHvguSNY%2F2zZvnxav9Yros%2BvPP1FomTdacfWcH4vMm2aPTWYMg2iCCJW5HpGInDzwCX0fftOpLq1GTbVCgoIlamSjiwLdBIB0Xen2ZLcbC5u8q%2BjfWuLeBEQIVxGPlDOXgPcT%2FOgHHNaNcB%2FURTBZnWJtebjHRPJ1E3F2M4iL1KCDYbOBk8Aegio3HetRvp1G8Hjw5CZrxgTAWK7nHWfyim7Kqh88HSi1Fy5WiXUl%2B79eXAepL41fxKnygr3cR5Qgen8IRLV0nBZdOvr6nPXndXkxwFa1QYA%2BdOgVLENDD3h%2B%2FVBjqZASwt6absCJgX0%2FUrBbLgpW8GLdAvzxzXJXs12ii1%2BS4u%2BaNFs0tTXhq7LWsfTRe5xO0avgLlAXk3zTI4kXR6prbjrfbVxx4xlGJe9g6sCZhb99b7ZvkyvkzeaTaiuDvYGjPrEwGCwl9upXGIf3lwfkQKbc%2BiUnayir2E5Smm7I9UfRozJfB5sfJjx4GIZ5i7BmU7kExxzNq8Yg%3D%3D&X-Amz-Signature=4f370ccf3f3f4ffbe09095b06d882743e2444e5c12babc519c7261d48efb74f7&X-Amz-SignedHeaders=host&x-id=GetObject",
+      "contentHash": "b0068428e7e47c8e3f03c9ba2c1aed9a100180561cd48ab323191278c49240f5",
+      "logs": [
+        {
+          "message": "Request \"Create a vehicle\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Create a vehicle",
+          "createdAt": "2026-09-29T14:52:44.437Z"
+        },
+        {
+          "message": "Request \"Retrieve a vehicle\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Retrieve a vehicle",
+          "createdAt": "2026-09-29T14:52:44.437Z"
+        },
+        {
+          "message": "Request \"Update a collection\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Update a collection",
+          "createdAt": "2026-09-29T14:52:44.437Z"
+        },
+        {
+          "message": "Request \"Delete a vehicle\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Delete a vehicle",
+          "createdAt": "2026-09-29T14:52:44.437Z"
+        },
+        {
+          "message": "Request \"Get all vehicles\" is missing a description. Consider adding one for better SDK documentation.",
+          "severity": "INFO",
+          "path": "Get all vehicles",
+          "createdAt": "2026-09-29T14:52:44.437Z"
+        }
+      ]
+    }
+  ],
+  "sdkName": "vehicle-service-collection-sdk"
+}
