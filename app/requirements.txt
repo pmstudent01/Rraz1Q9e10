@@ -1,0 +1,8 @@
+# The Vehicle Service App depends on the generated SDK.
+# Install it in editable mode from the generated SDK directory:
+#
+#   pip install -e "../postman/sdks/Collections SDKs/Vehicle Service Collection/python"
+#
+# The SDK itself pulls in its own dependencies (pydantic, requests, etc.)
+# as declared in its pyproject.toml.
+-e ../postman/sdks/Collections SDKs/Vehicle Service Collection/python

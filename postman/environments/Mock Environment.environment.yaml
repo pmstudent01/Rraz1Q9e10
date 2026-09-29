@@ -1,0 +1,4 @@
+name: Mock Environment
+values:
+  - key: baseUrl
+    value: https://98d6f71b-f4f2-4948-95bc-b1ece32a4e8d.mock.pstmn.io
